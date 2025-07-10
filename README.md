@@ -11,3 +11,6 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 DURATION: 6 WEEKS
 
 MENTOR NAME:NEELA SANTHOSH
+
+## OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/de2735fe-6e3e-41dd-b256-ccd584c521e3" />
